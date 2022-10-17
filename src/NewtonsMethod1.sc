@@ -2,6 +2,8 @@
  * Newton’s Method in computing the Square Root of x
  * * Newton’s method is used for approximating solutions.
  * * It is an iterative process and starts with an initial estimate which is used to find a better approximation which is then further used to find a better approximation until we reach the required result.
+ *
+ * This implementation does not use nested functions
  */
 
 /**
